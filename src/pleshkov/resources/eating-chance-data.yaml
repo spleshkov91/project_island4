@@ -1,0 +1,90 @@
+percentOfEating:
+  Wolf:
+    Snake: 0
+    Fox: 0
+    Deer: 15
+    Horse: 10
+    Sheep: 70
+    Plant: 0
+    Bear: 0
+    Rabbit: 60
+    Eagle: 0
+  Snake:
+    Wolf: 0
+    Fox: 15
+    Deer: 0
+    Horse: 0
+    Sheep: 0
+    Plant: 0
+    Bear: 0
+    Rabbit: 20
+    Eagle: 0
+  Fox:
+    Snake: 0
+    Wolf: 0
+    Deer: 15
+    Horse: 10
+    Sheep: 70
+    Plant: 0
+    Bear: 0
+    Rabbit: 70
+    Eagle: 0
+  Deer:
+    Snake: 0
+    Fox: 0
+    Wolf: 0
+    Horse: 0
+    Sheep: 0
+    Plant: 100
+    Bear: 0
+    Rabbit: 0
+    Eagle: 0
+  Horse:
+    Snake: 0
+    Fox: 0
+    Deer: 0
+    Wolf: 0
+    Sheep: 0
+    Plant: 100
+    Bear: 0
+    Rabbit: 0
+    Eagle: 0
+  Sheep:
+    Snake: 0
+    Fox: 0
+    Deer: 0
+    Horse: 0
+    Wolf: 0
+    Plant: 100
+    Bear: 0
+    Rabbit: 0
+    Eagle: 0
+  Bear:
+    Snake: 80
+    Fox: 0
+    Deer: 0
+    Horse: 40
+    Wolf: 0
+    Plant: 0
+    Sheep: 70
+    Rabbit: 80
+    Eagle: 0
+  Eagle:
+    Snake: 10
+    Fox: 10
+    Deer: 0
+    Horse: 0
+    Wolf: 0
+    Plant: 0
+    Sheep: 0
+    Rabbit: 90
+  Rabbit:
+    Eagle: 0
+    Snake: 0
+    Fox: 0
+    Deer: 0
+    Horse: 0
+    Wolf: 0
+    Plant: 0
+    Sheep: 0
+    Rabbit: 0
